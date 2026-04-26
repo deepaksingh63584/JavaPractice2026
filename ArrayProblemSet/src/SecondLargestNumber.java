@@ -18,7 +18,7 @@ public class SecondLargestNumber {
             }
         }
 
-        // If no second largest element was found, return -1
+        // If no second-largest element was found, return -1
         return -1;
     }
 
